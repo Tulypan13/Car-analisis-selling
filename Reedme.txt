@@ -1,0 +1,19 @@
+---
+BestCars Inc. Data Analysis Project
+
+Welcome to the BestCars Inc. data analysis project. This exciting project explores a dataset of used vehicles with the aim of gaining valuable insights for decision-making. As a data analyst and data scientist, my goal is to provide relevant information to enhance the management of BestCars Inc.'s vehicle fleet.
+
+Project Contents:
+
+Jupyter Notebook: The project includes a Jupyter Notebook named "BestCarsInc.ipynb," which provides a detailed overview of all stages of data analysis, from data cleaning to price prediction.
+
+HTML Version: In addition to the Jupyter Notebook file, I have generated an HTML version for easy viewing.
+
+Explanatory Video: For a comprehensive understanding of the project, I have created an explanatory video summarizing key highlights and conclusions.
+
+CSV File: The original dataset named "vehicles.csv" is available for download and reference.
+
+Txt File with Incident Log and Lessons Learned
+
+This project focuses on data exploration, data cleaning, outlier detection, vehicle price prediction, and strategic decision-making for BestCars Inc.'s vehicle fleet management.
+---
